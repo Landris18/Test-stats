@@ -1,0 +1,41 @@
+# Environnement virtuel
+env/
+venv/
+ENV/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+.hypothesis/
+
+# IDEs
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Fichiers de build
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Variables d'environnement
+config.bat
+node_modules
